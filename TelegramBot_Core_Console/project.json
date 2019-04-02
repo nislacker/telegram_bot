@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "Newtonsoft.Json": "12.0.1",
+    "ApiAiSDK": "1.6.5",
+    "Telegram.Bot": "14.10.0"
+  },
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+  "frameworks": {
+    "netcoreapp2.1": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}
